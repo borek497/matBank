@@ -11,7 +11,7 @@
 	<groupId>pl.borek497</groupId>
 	<artifactId>SpringSecurity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringSecurityUdemy</name>
+	<name>SpringSecurity</name>
 	<description>Spring Security project</description>
 	<url/>
 	<licenses>
